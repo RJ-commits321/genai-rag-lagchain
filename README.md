@@ -1,5 +1,5 @@
 # genai-rag-lagchain
-IBM Generative AI Applications with RAG and Langchain
+IBM- Project: Generative AI Applications with RAG and Langchain
 
 This project implements a document-based QA system using Retrieval-Augmented Generation with LangChain, watsonx embeddings, and a Gradio interface. It covers:
 
