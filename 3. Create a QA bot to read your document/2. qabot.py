@@ -22,7 +22,7 @@ def get_llm():
     model_id = 'mistralai/mistral-small-3-1-24b-instruct-2503'
     parameters = {
         "temperature": 0.5,
-        "max_new_tokens": 256,
+        "max_new_tokens": 256
     }
     project_id = "skills-network"
     watsonx_llm = WatsonxLLM(
